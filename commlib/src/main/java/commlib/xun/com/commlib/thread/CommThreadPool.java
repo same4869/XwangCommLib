@@ -1,4 +1,4 @@
-package commlib.xun.com.commlib;
+package commlib.xun.com.commlib.thread;
 
 import android.os.Handler;
 import android.os.HandlerThread;
@@ -55,10 +55,6 @@ public class CommThreadPool {
         getExecutor().execute(runnable);
     }
 
-    /**
-     * 这个在主线程中执行
-     * @param runnable
-     */
     public static void serialExecute(Runnable runnable) {
         getSerialHandler().post(runnable);
     }
