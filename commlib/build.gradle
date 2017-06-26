@@ -22,7 +22,7 @@ android {
         userOrg = 'same4869'//bintray.com用户名
         groupId = 'com.xwang'//jcenter上的路径
         artifactId = 'commlib'//项目名称
-        publishVersion = '1.0.4'//版本号
+        publishVersion = '1.0.5'//版本号
         desc = 'this is commlib by xwang'//描述
         website = 'https://github.com/same4869'//网站，最好有，不重要
     }
