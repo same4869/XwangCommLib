@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">commlib</string>
+
+    <string name="comm_active_no_network">网络好像不太好呀，点我刷新</string>
+    <string name="comm_load_ing">加载中...</string>
+    <string name="comm_image_load_ing">图片加载中...</string>
+    <string name="comm_image_load_failed">图片加载失败</string>
+    <string name="comm_error_invalid_image_path">无效图片</string>
 </resources>
