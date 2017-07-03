@@ -22,3 +22,5 @@
 ### 9 BitmapUtils 
 #### 9.1 saveBitmap 保存bitmap到指定文件路径下，需要文件系统权限
 
+### 10 CommBeatLoadingView 公共加载动画页面与状态页面
+
